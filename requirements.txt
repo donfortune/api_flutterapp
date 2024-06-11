@@ -148,7 +148,7 @@ typed-ast==1.5.4
 typing_extensions==4.5.0
 tzdata==2023.3
 uri-template==1.2.0
-urllib3==2.2.1
+urllib3
 virtualenv==20.24.2
 wcmatch==8.5.1
 wcwidth==0.2.6
